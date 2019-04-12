@@ -3,4 +3,4 @@ project(os-find)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Find Find.cpp)
+add_executable(Find find.cpp)
